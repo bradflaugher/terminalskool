@@ -35,11 +35,10 @@ Podman is a container engine that allows you to run applications in isolated env
 **Hands-on Practice:**
 
 1. Check Podman installation: `podman --version`
-2. Login to Docker Hub: `podman login docker.io` (you'll need credentials)
-3. Pull a test image: `podman pull hello-world`
-4. View downloaded images: `podman images`
-5. Run the container: `podman run hello-world`
-6. List containers: `podman ps -a`
+2. Pull a test image: `podman pull hello-world`
+3. View downloaded images: `podman images`
+4. Run the container: `podman run hello-world`
+5. List containers: `podman ps -a`
 
 **Challenge Exercise:**
 

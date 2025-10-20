@@ -55,8 +55,8 @@ Before starting the session, ensure:
 - *"Why do we need containers?"* - Consistency across environments, isolation, reproducibility
 
 **Watch Out For:**
-- Login credentials for container registry (have them ready or skip if not available)
 - First-time pulls can be slow depending on network speed
+- Students may need to wait for large images to download
 
 ### Module 2: Python Scripting (12 minutes)
 
