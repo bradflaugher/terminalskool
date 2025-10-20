@@ -1,0 +1,5 @@
+This is a plain text file.
+It contains multiple lines.
+You can view it with cat, less, or any text editor.
+It has no shebang because it's not executable.
+

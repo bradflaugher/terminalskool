@@ -1,0 +1,13 @@
+Alice Johnson,25,Engineer,New York
+Bob Smith,30,Designer,San Francisco
+Charlie Brown,28,Developer,Austin
+Diana Prince,35,Manager,Seattle
+Eve Adams,27,Developer,Boston
+Frank Miller,32,Engineer,Chicago
+Grace Lee,29,Designer,Portland
+Henry Davis,31,Developer,Denver
+Iris Chen,26,Engineer,Miami
+Jack Wilson,33,Manager,Dallas
+Alice Johnson,25,Engineer,New York
+Bob Smith,30,Designer,San Francisco
+
