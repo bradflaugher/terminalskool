@@ -94,44 +94,45 @@ sudo dnf install -y python3 gcc podman screen
 ## Getting Started
 
 1.  **Clone this repository** (or download the materials).
-2.  **Navigate to the course directory:**
 
     ```bash
-    cd terminal_session
+    git clone https://github.com/bradflaugher/terminalskool.git
+    cd terminalskool
     ```
 
-3.  **Start with Session 1:**
+2.  **Start with Session 1:**
 
     ```bash
-    cd module1_podman
+    cd session1
     cat README.md
     ```
 
-4.  **Work through each module in order,** reading the README and practicing the exercises.
+3.  **Work through each module in order,** reading the README and practicing the exercises.
 
 ## Directory Structure
 
 ```
-terminal_session/
+terminalskool/
 ├── README.md                      # This file
-├── session_guide.md               # Overview of Session 1
 ├── instructor_notes.md            # Teaching guide for instructors
 ├── quick_reference.md             # Command cheat sheet
-├── module1_podman/
-├── module2_python/
-├── module3_c/
-├── module4_files/
-├── module5_users/
-├── module6_env/
+├── session1/
+│   ├── README.md                  # Session 1 overview
+│   ├── module1_podman/
+│   ├── module2_python/
+│   ├── module3_c/
+│   ├── module4_files/
+│   ├── module5_users/
+│   └── module6_env/
 ├── session2/
-│   ├── README.md
+│   ├── README.md                  # Session 2 overview
 │   ├── module7_inspecting/
 │   ├── module8_shell_scripting/
 │   ├── module9_text_processing/
 │   ├── module10_processes/
 │   └── module11_io_redirection/
 └── session3/
-    ├── README.md
+    ├── README.md                  # Session 3 overview
     ├── module12_networking/
     ├── module13_archives/
     ├── module14_system_info/
